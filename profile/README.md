@@ -1,6 +1,6 @@
 # 🐾 Luccy
 
-[![Luccy Banner](./assets/banner.png)](https://myluccy.com)
+[![Luccy Banner](../assets/banner.png)](https://myluccy.com)
 
 ### Built for pets. Powered by AI.
 
@@ -11,7 +11,7 @@ We’re building an AI-powered platform that helps you **find lost pets, manage 
 ---
 
 ### 🚀 What’s the vibe?
-[![Luccy onboarding](./assets/Onboarding.png)](https://myluccy.com)
+[![Luccy onboarding](../assets/Onboarding.png)](https://myluccy.com)
 
 - 🧠 AI that recognizes and matches pets  
 - 🔍 Lost & found, but actually effective  
